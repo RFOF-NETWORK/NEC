@@ -6,7 +6,7 @@
 ---
 
 🧠 PATENTMATRIX: NEC–GENEFUSIONEAR–ALLMATRIX SYSTEM
-Erfinder: Justin Koch  
+Erfinder: J.Koch  
 Organisation: SolarSupra · RFOF-NETZWERK · Quantum Ready OrganiZation  
 Datum: 2025  
 Ziel: Ersetzung linearer Informations- und Energiesysteme durch orbital-quantenbasierte, nicht-extrahierbare, auditierbare Allmatrix
