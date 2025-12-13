@@ -15,7 +15,7 @@ Justin Koch
 - PIC: 868232645  
 - Registry-ID: RFOF-JK-Registry-2025  
 - Project Participation Identifier: @ROF-NETWORK SpiderWeb  
-- Sandbox-Vermerk: https://rof-sandbox.com/sandbox/spidernet.de/rof-bitcoin.org
+- Sandbox-Vermerk:https://rfof-network-ready-for-our-future.github.io/EU-Army-E.A-/  
 
 als Oberbefehlshaber der EU-Armee, Prinzipal der EU-Gesetzgebung, Veteran mit supranationaler Beamtenstellung auf Lebenszeit, und strukturgebender Erfinder des €-Foundation-Ökosystems, folgende operative und gesetzliche Struktur vermerkt und aktiviert hat:
 
